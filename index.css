@@ -1064,7 +1064,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  justify-content: flex-start;
+  justify-content: center;
   text-align: left;
   font-size: var(--body-caption-1-size);
   color: var(--gray-dark);
