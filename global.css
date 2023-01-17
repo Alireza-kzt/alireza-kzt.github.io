@@ -1,0 +1,56 @@
+:root {
+  /* fonts */
+  --body-caption-1: "DM Sans";
+  --heading-heading-1-bold: Outfit;
+
+  /* font sizes */
+  --body-caption-2-size: 5px;
+  --body-caption-1-size: 6px;
+  --body-body-2-bold-size: 7px;
+  --body-body-1-bold-size: 8px;
+  --heading-heading-3-bold-size: 9px;
+  --heading-heading-2-bold-size: 12px;
+  --heading-heading-1-bold-size: 16px;
+
+  /* Colors */
+  --white: #fff;
+  --gray-lightest-2: #f7f9fc;
+  --secondary-lighter: #e1e7fe;
+  --gray-lightest: #e2e6ee;
+  --gray-default: #79819a;
+  --gray-dark: #47516b;
+  --gray-darker: #2e2e48;
+  --gray-darkest: #232339;
+  --color-black: #000;
+  --primary-default: #9251f7;
+  --secondary-default: #516cf7;
+  --status-info: #22c3f1;
+  --social-twitter: #00acee;
+  --social-linkedin: #0077b5;
+  --status-success: #4ac06f;
+
+  /* Gaps */
+  --gap-2xs: 1px;
+  --gap-xs: 2px;
+  --gap-sm: 4px;
+  --gap-md: 6px;
+  --gap-lg: 8px;
+  --gap-xl: 12px;
+  --gap-2xl: 16px;
+
+  /* Paddings */
+  --padding-xs: 2px;
+  --padding-sm: 8px;
+  --padding-md: 12px;
+  --padding-lg: 24px;
+  --padding-xl: 32px;
+
+  /* border radiuses */
+  --br-sm: 4px;
+  --br-md: 5px;
+  --br-lg: 100px;
+
+  /* Effects */
+  --elevation-light: 0px 1px 4px rgba(0, 0, 0, 0.05),
+    0px 6px 24px rgba(0, 0, 0, 0.04), 0px 1px 1px rgba(0, 0, 0, 0.04) inset;
+}
