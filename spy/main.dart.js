@@ -62711,7 +62711,7 @@ p=p.gl(p)
 o=$.av
 o=(o==null?$.av=B.w:o).bN(0,k,q).cy
 o===$&&A.c()
-if(B.b.q(o,r))o="\u062c\u0627\u0633\u0648\u0633\u06cc"
+if(B.b.q(o,r))o="\u062c\u0627\u0633\u0648\u0633"
 else{o=$.av
 o=(o==null?$.av=B.w:o).bN(0,k,q).cx
 o===$&&A.c()}n=$.av
